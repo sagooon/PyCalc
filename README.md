@@ -23,11 +23,12 @@ pip install tk-tools
 - Cross-Platform Execution
 
 **Customization Parameters**
+
 ```
-LARGE_FONT_STYLE = ("Quicksand", 40, "bold")
-SMALL_FONT_STYLE = ("Quicksand", 16)
-DIGITS_FONT_STYLE = ("Quicksand", 24, "bold")
-DEFAULT_FONT_STYLE = ("Quicksand", 20)
+LARGE_FONT_STYLE
+SMALL_FONT_STYLE
+DIGITS_FONT_STYLE
+DEFAULT_FONT_STYLE
 
 OFF_WHITE = "#F8FAFF"
 WHITE = "#FFFFFF"
