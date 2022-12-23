@@ -22,7 +22,7 @@ pip install tk-tools
 
 - Cross-Platform Execution
 
-**Customization Parameters**
+**Customizable Parameters**
 
 ```
 LARGE_FONT_STYLE
